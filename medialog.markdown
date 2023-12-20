@@ -25,21 +25,3 @@ permalink: /medialog/
 | Morning Star | Pierce Brown | 2023 | |
 | Infrastructure as Code | Kief Morris | 2023 | |
 | Five Dialogues | Plato | 2023 | |
-
-
-{% comment %}
-# Articles
-
-| Title | Author | Date Read | Comment |
-|-------|--------|-----------|---------|
-
-# Podcasts
-
-| Title | Author | Date Read | Comment |
-|-------|--------|-----------|---------|
-
-# Movies and Television
-
-| Title | Author | Date Read | Comment |
-|-------|--------|-----------|---------|
-{% endcomment %}
