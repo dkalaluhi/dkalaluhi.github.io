@@ -27,7 +27,7 @@ permalink: /medialog/
 | Five Dialogues | Plato | 2023 | |
 
 
-
+{% comment %}
 # Articles
 
 | Title | Author | Date Read | Comment |
@@ -42,3 +42,4 @@ permalink: /medialog/
 
 | Title | Author | Date Read | Comment |
 |-------|--------|-----------|---------|
+{% endcomment %}
