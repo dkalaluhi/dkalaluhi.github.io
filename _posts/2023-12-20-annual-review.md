@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-exceprt_separator: <!--more--> 
+excerpt_separator: <!--more--> 
 ---
 As 2023 winds to a close, I seem to be drawn toward reflection. More so this year than in the past I have found myself thinking about and drawing on the past even while I look to the future. From the distant past like words my children said when they were little to the more recent accomplishments and challenges of the past year. <!--more-->  Maybe this is because of the reading that I have done over the year, or the classes I have taken, or the fact I am getting older, this year, more than any I can remember I am acutely aware that I am not the same man today as I was on January 1st, 2023. And that, I know is a good thing.
 
